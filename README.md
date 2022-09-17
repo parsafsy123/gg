@@ -1,1 +1,9 @@
-# gg
+{
+
+  "title": "",
+
+  "text": "",
+
+  "on-off": true
+
+}
